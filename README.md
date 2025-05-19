@@ -28,4 +28,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/chakri0207/Leetcodeluffy/tree/master/0231-power-of-two) |
+## Hash Table
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/chakri0207/Leetcodeluffy/tree/master/0142-linked-list-cycle-ii) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/chakri0207/Leetcodeluffy/tree/master/0142-linked-list-cycle-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/chakri0207/Leetcodeluffy/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
