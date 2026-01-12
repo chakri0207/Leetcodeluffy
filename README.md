@@ -40,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/chakri0207/Leetcodeluffy/tree/master/0142-linked-list-cycle-ii) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/chakri0207/Leetcodeluffy/tree/master/1143-longest-common-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/chakri0207/Leetcodeluffy/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
